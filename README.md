@@ -45,6 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeron-aeron&show_icons=true&locale=en&theme=tokyonight" alt="aeron-aeron" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aeron-aeron&" alt="aeron-aeron " /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aeron-aeron&&theme=tokyonight" alt="aeron-aeron " /></p>
 
 ![snake gif](https://github.com/Aeron-Aeron/Aeron-Aeron/blob/output/github-snake-dark.svg)
