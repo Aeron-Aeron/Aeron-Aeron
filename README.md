@@ -33,7 +33,7 @@
 
 - 🌱 Learning **Microsoft SQL Server & advanced database design**
 - 🔭 Love building custom roms on the side for Redmi Note 12 Pro/ Pro + 5G/ Discovery Edition
-- ⚡ Currently building official for Evolution X and The Pixel Project
+- ⚡ Currently building official for Evolution X
 - 🎯 Goal: To become a **skilled Database Engineer** while keeping my ROM projects alive
   
 <h3 align="left">Connect with me:</h3>
