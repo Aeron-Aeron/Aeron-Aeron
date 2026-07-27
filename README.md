@@ -1,1 +1,9 @@
-## Interested in backend development
+```
+while (alive) {
+    learn();
+    build();
+    break();
+    fix();
+    repeat();
+}
+```
