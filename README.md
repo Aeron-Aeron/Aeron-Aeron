@@ -1,4 +1,4 @@
-```
+```cpp
 while (alive) {
     learn();
     build();
