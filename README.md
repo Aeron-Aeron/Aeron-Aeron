@@ -1,8 +1,10 @@
+## My life
+
 ```cpp
 while (alive) {
     learn();
     build();
-    break();
+    fail();
     fix();
     repeat();
 }
